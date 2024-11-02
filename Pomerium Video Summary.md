@@ -1,4 +1,4 @@
-# This is a brief summary of the YouTube video _The Roman Pomerium_ by [Historia Civilis](https://www.youtube.com/@HistoriaCivilis)
+# This is a Brief Summary of the YouTube Video _The Roman Pomerium_ by [Historia Civilis](https://www.youtube.com/@HistoriaCivilis)
 ## Introduction
 * According to legend, Rome was founded by two brothers, Romulus and Remus
 * They led an expiditon to found a new city on the banks of the Tiber river.
